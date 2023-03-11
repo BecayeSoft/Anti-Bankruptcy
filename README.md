@@ -1,2 +1,2 @@
 # Anti-Bankruptcy
-A Machine Learning System that prevent companies from going bankrupt.
+A Machine Learning System that prevents companies from going bankrupt.
